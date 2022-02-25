@@ -12,3 +12,7 @@
 Desarrollador de software con conocimientos de desarrollo web y de escritorio, con conocimientos de apartados operacionales de la tecnología y diseño vectorial con adobe illustrator.
 </p>
 
+<h2>Trabajo</h2>
+<p>
+Actualmente me encuentro como asgurador de calidad de software para la empresa de desarrollo AVASA, la cual esta aliada a la empresa de renta de autos Hertz y a la empresa de venta de autos Mitsubishi.
+</p>
