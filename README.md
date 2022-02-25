@@ -28,5 +28,5 @@ Actualmente me encuentro como asgurador de calidad de software para la empresa d
 <li>SAT learning</li>
 <li>Mediplus administration</li>
 
-<h2>GitHub Stats</h2>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jar8-stack)](https://github.com/anuraghazra/github-readme-stats)
+
+
