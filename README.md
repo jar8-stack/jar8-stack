@@ -16,3 +16,17 @@ Desarrollador de software con conocimientos de desarrollo web y de escritorio, c
 <p>
 Actualmente me encuentro como asgurador de calidad de software para la empresa de desarrollo AVASA, la cual esta aliada a la empresa de renta de autos Hertz y a la empresa de venta de autos Mitsubishi.
 </p>
+
+<h2>Habilidades</h2>
+<li>Automatización de pruebas web on Selenium</li>
+<li>Automatización de pruebas moviles con Appium</li>
+<li>Analisis de datos</li>
+<li>Desarrollo web con Django</li>
+<li>Desarrollo movil android con Kotlin</li>
+
+<h2>Proyectos</h2>
+<li>SAT learning</li>
+<li>Mediplus administration</li>
+
+<h2>GitHub Stats</h2>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jar8-stack)](https://github.com/anuraghazra/github-readme-stats)
